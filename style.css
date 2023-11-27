@@ -10,3 +10,7 @@ h1{
 p{
     text-align: center;
 }
+
+#livros {
+    width: 100%;
+}
