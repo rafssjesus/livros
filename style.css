@@ -20,9 +20,13 @@ p{
 }
 
 .benefícios {
-    background: #F0E68C
+    background: #F5DEB3;
 }
 
 h2 {
     text-align: center;
+}
+
+.imagembela{
+    width: 50%;
 }
