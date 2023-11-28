@@ -2,7 +2,7 @@ body{
     background:#D2B48C;
 }
 
-h1{
+.título-centralizado{
     text-align: center;
     font-size:20px;
 }
@@ -22,11 +22,6 @@ p{
 .benefícios {
     background: #F5DEB3;
     padding: 20px;
-    
-}
-
-h2 {
-    text-align: center;
 }
 
 ul {
