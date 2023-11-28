@@ -21,10 +21,19 @@ p{
 
 .benefícios {
     background: #F5DEB3;
+    padding: 20px;
+    
 }
 
 h2 {
     text-align: center;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
 }
 
 .imagembela{
